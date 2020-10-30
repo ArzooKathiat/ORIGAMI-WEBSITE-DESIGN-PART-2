@@ -1,0 +1,34 @@
+
+     
+     .head{
+          background-image: url(images/pinkOrigami.jpeg);
+        padding: 250px;
+     display:flex;
+     flex-wrap: wrap;
+     justify-content : space-evenly;
+
+     }
+
+     h1{
+         text-align:center;
+
+        color:rgb(253, 120, 151);
+              
+    }
+    
+    body{
+         background:rgb(255,209,220);
+         color: #F04763
+    }
+
+
+    .grid{
+      display: grid;   
+    }
+
+    .image{
+         grid-row-start: 1;
+        
+    }
+    
+  
